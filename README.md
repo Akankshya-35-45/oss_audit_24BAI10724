@@ -7,7 +7,7 @@ This project is part of the Open Source Software course. In this project, I expl
 Along with theory, I also created and tested multiple shell scripts to understand how open-source tools work practically in a real system.
 
 ## Student Details
-* **Name:** Aakansha
+* **Name:** Akankshya Dibyadarsinee Rout
 * **Registration Number:** 24BAI10724
 * **Course:** Open Source Software
 
